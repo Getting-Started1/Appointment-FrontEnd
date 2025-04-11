@@ -19,5 +19,5 @@ This project is an Appointment System built with React, FastAPI, and Postgres. I
 1. **Clone the Repository**
 
    ```bash
-   git clone 
-   cd doctor-appointment-system
+   git https://github.com/Getting-Started1/Appointment-FrontEnd.git 
+   cd Appointment-FrontEnd
