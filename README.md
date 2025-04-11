@@ -20,4 +20,4 @@ This project is an Appointment System built with React, FastAPI, and Postgres. I
 
    ```bash
    git https://github.com/Getting-Started1/Appointment-FrontEnd.git 
-   cd Appointment-FrontEnd
+   cd client
